@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "Put Your Secret Here.",
+    "MONGOURI": "Put Your MongoDB Url"
+}
