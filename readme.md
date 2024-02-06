@@ -29,7 +29,7 @@
 
 ## RESTful API
 - Vidly Follows REST Principles!
-- Here is the PostMan [Link](postman.com/kaala7339/workspace/dc710ade-5ad8-4541-a223-dba67c700852/share?collection=32763382-2d7d4fb9-834a-4bde-9264-cdf20fadf2d5&target=link) Fork & Use it
+- Here is the PostMan [Link](https://www.postman.com/kaala7339/workspace/dc710ade-5ad8-4541-a223-dba67c700852/share?collection=32763382-2d7d4fb9-834a-4bde-9264-cdf20fadf2d5&target=link) Fork & Use it
 
 ## Feedback
 For feedback or any inquiries, feel free to contact and connect with me on LinkedIn:
